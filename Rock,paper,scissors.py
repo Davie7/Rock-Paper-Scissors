@@ -8,7 +8,7 @@ paper = 2
 scissors = 3
 
 names = {rock:"Rock", paper:"Paper", scissors:"Scissors" }
-#initial rules of the game are defined.
+#initial rules of the game are defined at this point.
 rules = {rock: scissors, paper: rock, scissors: paper }
 
 player_score = 0
